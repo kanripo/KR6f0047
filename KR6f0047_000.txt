@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 入法界體性經
+#+DATE: 2015-08-30 20:01:54.450535
+#+PROPERTY: JUAN 0
