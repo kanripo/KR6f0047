@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:54.258869
+#+DATE: 2015-08-30 20:01:55.608850
 #+TITLE: 入法界體性經
 #+PROPERTY: CBETA_ID T12n0355
 #+PROPERTY: ID KR6f0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 355
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0047_T_000-0234a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0047_T_001-0234a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.355¶
-
- 入法界體性經¶
+No. 355¶
+入法界體性經¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
