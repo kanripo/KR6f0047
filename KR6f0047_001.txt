@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:54.258869
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:00
 #+TITLE: 入法界體性經
 #+PROPERTY: CBETA_ID T12n0355
 #+PROPERTY: ID KR6f0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 355
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0047_T_000-0234a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0047_T_001-0234a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.355¶
-
- 入法界體性經¶
+No. 355¶
+入法界體性經¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -516,6 +515,6 @@ No.355¶
 才。」
 
 佛說此經時，文殊師利童子及餘菩薩摩¶
-訶薩，上坐舍利弗及餘諸比丘，并諸天眾、揵¶
+訶薩，上坐舍利弗及餘諸比丘，并諸天眾、犍¶
 闥婆、人、阿修羅等，聞佛所說，皆大歡喜。¶
 入法界體性經
